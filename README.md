@@ -27,5 +27,5 @@
 - What: Simple productivity app (tasks, local storage)
 - Tech: Flutter, Dart
 - Repo: https://github.com/Rabbani84/todo1_app
-- Live Demo (Web): (coming soon)
+- Live Demo (Web): https://rabbani84.github.io/todo1_app/
 
