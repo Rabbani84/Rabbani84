@@ -1,31 +1,149 @@
-👋 Hi, I'm Ahmad Rabbani
+# 👋 Hi, I'm Ahmad Rabbani
 
-💻 Junior Software Developer | Flutter & Application Development  
-📍 Lübeck / Hamburg | Remote possible
+💻 Junior Software Developer (.NET & Flutter)  
+📍 Lübeck / Hamburg | Remote possible  
 
-🔹 IHK-certified Fachinformatiker für Anwendungsentwicklung  
-🔹 Strong background in Mathematics & Statistics  
-🔹 Experience with Flutter, REST APIs, SQLite, MVVM  
+---
 
-🚀 What I build:
-- Cross-platform Flutter apps
-- Business & productivity applications
-- API-based systems
+## 🧠 About Me
 
-📂 Featured Projects ↓
-## 📌 Featured Projects
+I am an IHK-certified **Fachinformatiker für Anwendungsentwicklung** with hands-on experience in both:
 
-### 1) ⏱️ Rabbani Zeiterfassung – Mobile Time Tracking (Flutter)
-  💡 Ich entwickle praxisnahe Flutter-Anwendungen mit Live-Demos.
-- What: Cross-platform time tracking app with API integration
-- Tech: Flutter, Dart, REST API, SQLite, MVVM
-- Repo: https://github.com/Rabbani84/rabbani_zeiterfassung
-- Live Demo (Web): https://rabbani84.github.io/rabbani_zeiterfassung/
-- > This demo is publicly available and contains no company code or confidential data.
+🔹 **Flutter (Cross-Platform Development)**  
+🔹 **C# / .NET Desktop Applications**
 
-### 2) ✅ Todo App (Flutter)
-- What: Simple productivity app (tasks, local storage)
-- Tech: Flutter, Dart
-- Repo: https://github.com/Rabbani84/todo1_app
-- Live Demo (Web): https://rabbani84.github.io/todo1_app/
+I focus on building structured, practical applications with clean logic, maintainable code, and real-world use cases.
 
+Strong analytical background in **Mathematics & Statistics**, which helps me design algorithmic and structured systems.
+
+---
+
+# 🚀 Featured Projects
+
+## 📱 Flutter Projects
+
+### 1️⃣ ⏱️ Rabbani Zeiterfassung – Mobile Time Tracking App
+
+💡 Practical Flutter application with API integration.
+
+**What:**
+- Cross-platform time tracking app
+- API-based architecture
+- Clean UI structure
+- Real-world business use case
+
+**Tech Stack:**
+- Flutter
+- Dart
+- REST API
+- SQLite
+- MVVM-ready structure
+
+🔗 Repository:  
+https://github.com/Rabbani84/rabbani_zeiterfassung  
+
+🌐 Live Web Demo:  
+https://rabbani84.github.io/rabbani_zeiterfassung/  
+
+*(Demo contains no confidential company data.)*
+
+---
+
+### 2️⃣ ✅ Todo App – Productivity App (Flutter)
+
+**What:**
+- Task management application
+- Local storage handling
+- Clean and structured UI
+
+**Tech Stack:**
+- Flutter
+- Dart
+- Local storage
+
+🔗 Repository:  
+https://github.com/Rabbani84/todo1_app  
+
+🌐 Live Web Demo:  
+https://rabbani84.github.io/todo1_app/  
+
+---
+
+## 🖥 .NET / C# Desktop Projects
+
+### 3️⃣ 🧮 Scientific Calculator – WPF (.NET 6)
+
+Advanced desktop calculator including:
+
+- Standard & scientific operations
+- Quadratic & cubic equation solver
+- Complex number handling
+- Graph visualization using OxyPlot
+- Calculation history panel
+
+**Tech Stack:**
+- C#
+- WPF (.NET 6)
+- OxyPlot
+- Algorithmic logic
+
+🔗 Repository:  
+https://github.com/Rabbani84/ScientificCalculator-WPF  
+
+---
+
+### 4️⃣ 🎮 ZahlenRatenWPF – Desktop Game (.NET)
+
+Structured number guessing game demonstrating:
+
+- Random number logic
+- HashSet usage
+- Game state management
+- UI interaction in WPF
+- Clean separation of logic
+
+🔗 Repository:  
+https://github.com/Rabbani84/ZahlenRatenWPFApp  
+
+---
+
+# 🛠 Technical Skills
+
+### Languages
+- C#
+- Dart
+
+### Frameworks
+- .NET 6
+- WPF
+- Flutter
+
+### Concepts
+- REST API integration
+- Local database (SQLite)
+- MVVM-ready structure
+- Algorithm design
+- Structured UI development
+
+### Tools
+- Visual Studio 2022
+- VS Code
+- Git & GitHub
+
+---
+
+# 🎯 Career Focus
+
+Currently seeking opportunities as:
+
+- Junior Flutter Developer
+- Junior .NET Developer
+- Application Developer
+- Software Developer (Entry-Level)
+
+Open to positions in Hamburg, Lübeck or remote.
+
+---
+
+# 📫 Contact
+Email: rabbaniahmad.aa43@gmail.com
