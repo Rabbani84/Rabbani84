@@ -110,8 +110,10 @@ https://github.com/Rabbani84/ZahlenRatenWPFApp
 # 🛠 Technical Skills
 
 ### Languages
+- C++
 - C#
 - Dart
+- JAVA
 
 ### Frameworks
 - .NET 6
