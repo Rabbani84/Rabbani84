@@ -22,7 +22,36 @@ Strong analytical background in **Mathematics & Statistics**, which helps me des
 
 ## 📱 Flutter Projects
 
-### 1️⃣ ⏱️ Rabbani Zeiterfassung – Mobile Time Tracking App
+
+### 1️⃣ 🇩🇪 Leben in Deutschland – Bilingual Learning App (Flutter)
+
+A bilingual Flutter learning app designed to help users prepare for the **Leben in Deutschland** test in **German and Arabic**.
+
+What:
+- Practice-oriented learning experience
+- German and Arabic question support
+- Clear and simple mobile UI
+- Real-world educational use case
+
+Tech Stack:
+- Flutter
+- Dart
+- JSON-based question structure
+- Local app logic
+- Responsive UI
+
+🌐 Live Web Demo:
+https://rabbani84.github.io/leben-in-deutschland-demo/
+
+Status:
+Currently in testing for publication on **Google Play**.  
+A future release on the **Apple App Store** is planned.
+
+Note:
+The full source code is currently private.  
+Only the public demo / preview is available.
+
+### 2️⃣ ⏱️ Rabbani Zeiterfassung – Mobile Time Tracking App
 
 💡 Practical Flutter application with API integration.
 
@@ -48,32 +77,6 @@ https://rabbani84.github.io/rabbani_zeiterfassung/
 *(Demo contains no confidential company data.)*
 
 ---
-### 2️⃣ 🇩🇪 Leben in Deutschland – Bilingual Learning App (Flutter)
-
-A bilingual Flutter learning app designed to help users prepare for the **Leben in Deutschland** test in **German and Arabic**.
-
-What:
-- Practice-oriented learning experience
-- German and Arabic question support
-- Clear and simple mobile UI
-- Real-world educational use case
-
-Tech Stack:
-- Flutter
-- Dart
-- JSON-based question structure
-- Local app logic
-- Responsive UI
-
-Live Web Demo:
-
-Status:
-Currently in testing for publication on **Google Play**.  
-A future release on the **Apple App Store** is planned.
-
-Note:
-The full source code is currently private.  
-Only the public demo / preview is available.
 
 ### 3️⃣ ✅ Todo App – Productivity App (Flutter)
 
