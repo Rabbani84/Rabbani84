@@ -48,8 +48,34 @@ https://rabbani84.github.io/rabbani_zeiterfassung/
 *(Demo contains no confidential company data.)*
 
 ---
+### 2️⃣ 🇩🇪 Leben in Deutschland – Bilingual Learning App (Flutter)
 
-### 2️⃣ ✅ Todo App – Productivity App (Flutter)
+A bilingual Flutter learning app designed to help users prepare for the **Leben in Deutschland** test in **German and Arabic**.
+
+What:
+- Practice-oriented learning experience
+- German and Arabic question support
+- Clear and simple mobile UI
+- Real-world educational use case
+
+Tech Stack:
+- Flutter
+- Dart
+- JSON-based question structure
+- Local app logic
+- Responsive UI
+
+Live Web Demo:
+
+Status:
+Currently in testing for publication on **Google Play**.  
+A future release on the **Apple App Store** is planned.
+
+Note:
+The full source code is currently private.  
+Only the public demo / preview is available.
+
+### 3️⃣ ✅ Todo App – Productivity App (Flutter)
 
 **What:**
 - Task management application
@@ -71,7 +97,7 @@ https://rabbani84.github.io/todo1_app/
 
 ## 🖥 .NET / C# Desktop Projects
 
-### 3️⃣ 🧮 Scientific Calculator – WPF (.NET 6)
+### 4️⃣ 🧮 Scientific Calculator – WPF (.NET 6)
 
 Advanced desktop calculator including:
 
@@ -92,7 +118,7 @@ https://github.com/Rabbani84/ScientificCalculator-WPF
 
 ---
 
-### 4️⃣ 🎮 ZahlenRatenWPF – Desktop Game (.NET)
+### 5 🎮 ZahlenRatenWPF – Desktop Game (.NET)
 
 Structured number guessing game demonstrating:
 
@@ -134,16 +160,15 @@ https://github.com/Rabbani84/ZahlenRatenWPFApp
 
 ---
 
-# 🎯 Career Focus
+# Career Focus
 
 Currently seeking opportunities as:
-
 - Junior Flutter Developer
+- Junior Software Developer
 - Junior .NET Developer
 - Application Developer
-- Software Developer (Entry-Level)
 
-Open to positions in Hamburg, Lübeck or remote.
+Open to positions in Lübeck, Hamburg, or remote.
 
 ---
 
