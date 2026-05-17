@@ -25,13 +25,14 @@ Strong analytical background in **Mathematics & Statistics**, which helps me des
 
 ### 1️⃣ 🇩🇪 Leben in Deutschland – Bilingual Learning App (Flutter)
 
-A bilingual Flutter learning app designed to help users prepare for the **Leben in Deutschland** test in **German and Arabic**.
+A bilingual Flutter learning app designed to help users prepare for the **Leben in Deutschland** test and the **German naturalization test** in **German and Arabic**.
 
 What:
 - Practice-oriented learning experience
 - German and Arabic question support
 - Clear and simple mobile UI
 - Real-world educational use case
+- Helpful learning features for exam preparation
 
 Tech Stack:
 - Flutter
@@ -40,16 +41,19 @@ Tech Stack:
 - Local app logic
 - Responsive UI
 
+📱 Available on Google Play:
+https://play.google.com/store/apps/details?id=com.rabbani.lebendeutschlandtrainer&pcampaignid=web_share
+
 🌐 Live Web Demo:
 https://rabbani84.github.io/leben-in-deutschland-demo/
 
 Status:
-Currently in testing for publication on **Google Play**.  
+Published on **Google Play**.  
 A future release on the **Apple App Store** is planned.
 
 Note:
 The full source code is currently private.  
-Only the public demo / preview is available.
+Only the public demo / preview and the published Google Play version are available.
 
 ### 2️⃣ ⏱️ Rabbani Zeiterfassung – Mobile Time Tracking App
 
